@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a front-end developer<br>I do project as a freelancer<br>I am in love with coding
+I am a Front-End developer<br>I do project as a freelancer<br>I am in love with coding
 
 
 ## 🌐 Socials:
