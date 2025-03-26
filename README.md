@@ -85,7 +85,7 @@ hobbies: ["Running", "Cinema", "Theater", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>  -->     
 </br>
 </p>
-</br>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
