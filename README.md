@@ -26,9 +26,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<a href="mailto:omid138089@gmail.com">
-  connect on mail
-</a>
 
 ---
 
@@ -38,6 +35,7 @@
 name: Omid Javaheri
 located_in: Tehran, Iran
 current_job: Frontend Developer
+email: omid138089@gmail.com
 education:
   [
     "Self-Taught Developer and Designer",
@@ -95,9 +93,8 @@ hobbies: ["Running", "Cinema", "Theater", "Art", "Comedy"]
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
 
 # 📊 GitHub Stats:
 
