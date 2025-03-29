@@ -26,11 +26,13 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+<a href="mailto:omid138089@gmail.com">
+  connect on mail
+</a>
 
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-</br>
 
 ```yaml
 name: Omid Javaheri
@@ -64,8 +66,7 @@ hobbies: ["Running", "Cinema", "Theater", "Art", "Comedy"]
 
  </br>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  </br>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
@@ -93,14 +94,12 @@ hobbies: ["Running", "Cinema", "Theater", "Art", "Comedy"]
 </p>
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?OmidJavaherii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=omidjavaherii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
