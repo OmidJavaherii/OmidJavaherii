@@ -28,7 +28,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=FAE600&background=FFFFFF00&vCenter=true&width=400&lines=I'm+a+Programmer;I'm+a+Front-End+developer;I'm+a+web+developer;I'm+a+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=FAE600&background=FFFFFF00&vCenter=true&width=400&lines=I'm+a+Programmer;I'm+a+Front-End+developer;I'm+a+web+developer)](https://git.io/typing-svg)
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
