@@ -37,7 +37,7 @@
 name: Omid Javaheri
 located_in: Tehran, Iran
 current_job: Frontend Developer
-email: omid138089@gmail.com
+email: omidjavaheri.eng@gmail.com
 education:
   [
     "Self-Taught Developer and Designer",
