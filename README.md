@@ -40,7 +40,6 @@ current_job: Frontend Developer
 email: omidjavaheri.eng@gmail.com
 education:
   [
-    "Frontend Developer",
     "Bachelor's in Software Engineering",
     "Assosiate's in Electronics and Electrical",
   ]
