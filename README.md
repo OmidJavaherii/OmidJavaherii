@@ -44,7 +44,7 @@ education:
     "Bachelor's in Software Engineering",
     "Assosiate's in Electronics and Electrical",
   ]
-company: Freelancer
+company: Tara Chain
 
 fields_of_interests:
   [
