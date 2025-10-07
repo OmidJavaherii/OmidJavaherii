@@ -40,7 +40,7 @@ current_job: Frontend Developer
 email: omidjavaheri.eng@gmail.com
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Frontend Developer",
     "Bachelor's in Software Engineering",
     "Assosiate's in Electronics and Electrical",
   ]
@@ -49,19 +49,18 @@ company: Freelancer
 fields_of_interests:
   [
     "Web Development",
-    "Machine Learning",
+    "Backend",
     "DevOps",
+    "LeaderShip"
   ]
 technical_background:
   [
     "Frontend Developer"
     "Expert - Internet Of Things",
-    "Intern - Data Science & Machine Learning in Python"
   ]
   
-currently_learning: ["Typescript, Next.js, and Zustand"]
-2024 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Running", "Cinema", "Theater", "Art", "Comedy"]
+currently_learning: ["Test, StoryBook and DB"]
+Goals: ["Create 10+ Projects and Improve perfomance most."]
 ```
 
  # 💻 Tech Stack:
